@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/563083868132313575/29a45942da444578a85764cd7838f02a/artifacts
+end_time: 1761251008793
+entry_point_name: ''
+experiment_id: '563083868132313575'
+lifecycle_stage: active
+run_id: 29a45942da444578a85764cd7838f02a
+run_name: CBF|minSim=0.02|C=0.5
+run_uuid: 29a45942da444578a85764cd7838f02a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761250997083
+status: 3
+tags: []
+user_id: codespace
