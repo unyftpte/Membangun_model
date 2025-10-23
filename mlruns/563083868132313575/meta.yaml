@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/563083868132313575
-creation_time: 1761249964820
-experiment_id: '563083868132313575'
-last_update_time: 1761249964820
-lifecycle_stage: active
-name: article-reco-tuning
